@@ -1,1 +1,1 @@
-It is about jquery.
+get/post的简单操作
